@@ -2863,6 +2863,10 @@ input[type="button"].btn-block {
   content: "\e116";
 }
 
+.glyphicon-home:before {
+  content: "\e021";
+}
+
 .glyphicon-folder-close:before {
   content: "\e117";
 }
